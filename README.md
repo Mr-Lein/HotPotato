@@ -1,5 +1,6 @@
 # HotPotato
 Simulate a HotPotato Game
+
 The Hot Potato game is a classic illustration of how queues work in real-world scenarios. In this simulation, the game is modeled by utilizing the First-In-First-Out (FIFO) nature of a queue to manage the children passing an item (the potato) around a circle. Let's break this down further:
 
 Game Mechanics:
